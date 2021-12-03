@@ -18,6 +18,14 @@
 
 <h3><b> Links </b></h3>
 
+Link to the deployed website (file:///Volumes/Macintosh%20HD/Users/carolinateixeira/Horiseon-SEO/index.html)+
 
+Link to the code repository
 
 <h3><b> Usage </b></h3>
+
+Once deployed the application can be viewed in a traditional desktop web browser. It it not yet responsive.
+
+![Screen Shot 2021-12-03 at 7 06 46 pm](https://user-images.githubusercontent.com/94167488/144570392-a2d13ff7-f3da-424f-9a14-67821e3d8f31.png)
+
+
