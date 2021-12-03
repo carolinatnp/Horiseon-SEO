@@ -37,7 +37,7 @@ SO THAT our own site is optimized for search engines
 
 ## Links 
 
-* Link to the deployed website (file:///Volumes/Macintosh%20HD/Users/carolinateixeira/Horiseon-SEO/index.html)+
+* [Link to the deployed website](https://carolinatnp.github.io/Horiseon-SEO/)
 
 * [Link to the code repository](https://github.com/carolinatnp/Horiseon-SEO)
 
