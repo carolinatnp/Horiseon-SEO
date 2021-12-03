@@ -1,28 +1,47 @@
 
 # READ ME - Horiseon Website </h1>
 
-<h1><b>Description</b></h1>
+<h1><b>Description of the project</b></h1>
 
 <p>This project is a code refactor for the Horiseon website homepage. The purposes of this refactoring is to make the previous code more efficient, comprehensible and accessible. This refactoring should also result in improved search engine optimization. The modification does not change the displayed styling of the page, only the underlying code. </p>
 
-<h2><b> Tasks Completed </b></h2>
+## User Story 
 
-<ul>
-<li>Changed website tittle and added a meta description for SEO;</li>
-<li>Added alt text on images and icons for SEO and accessibility;</li>
-<li>Explanatory comments were provided in the HTML document;</li>
-<li>CSS was reorganized to follow a logical structure </li>
-<li>Classes and elements were separated, then ordered alphabetically within each group</li>
-<Li>Comments added to delineate each separation</li>
-</ul>
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-<h3><b> Links </b></h3>
+## Acceptance Criteria
 
-Link to the deployed website (file:///Volumes/Macintosh%20HD/Users/carolinateixeira/Horiseon-SEO/index.html)+
+* GIVEN a webpage meets accessibility standards
+* WHEN I view the source code
+* THEN I find semantic HTML elements
+* WHEN I view the structure of the HTML elements
+* THEN I find that the elements follow a logical structure independent of styling and positioning
+* WHEN I view the icon and image elements
+* THEN I find accessible alt attributes
+* WHEN I view the heading attributes
+* THEN they fall in sequential order
+* WHEN I view the title element
+* THEN I find a concise, descriptive title
 
-Link to the code repository
+## Tasks Completed
 
-<h3><b> Usage </b></h3>
+* Changed website tittle and added a meta description for SEO;
+* Added alt text on images and icons for SEO and accessibility;
+* Explanatory comments were provided in the HTML document;
+* CSS was reorganized to follow a logical structure;
+* Classes and elements were separated, then ordered alphabetically within each group;
+* Comments added to delineate each separation.
+
+
+## Links 
+
+* Link to the deployed website (file:///Volumes/Macintosh%20HD/Users/carolinateixeira/Horiseon-SEO/index.html)+
+
+* Link to the code repository
+
+## Usage 
 
 Once deployed the application can be viewed in a traditional desktop web browser. It it not yet responsive.
 
