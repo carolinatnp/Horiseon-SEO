@@ -35,6 +35,10 @@ SO THAT our own site is optimized for search engines
 * Comments added to delineate each separation.
 
 
+## Technologies Used
+- HTML
+- CSS
+
 ## Links 
 
 * [Link to the deployed website](https://carolinatnp.github.io/Horiseon-SEO/)
